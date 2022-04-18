@@ -1,4 +1,5 @@
-module github.com/openshift/source-to-image
+module github.com/rudyprabowo/source-to-image-openshift
+
 
 go 1.13
 
